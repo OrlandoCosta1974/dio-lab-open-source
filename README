@@ -1,0 +1,87 @@
+
+---
+
+## ✅ 4) `digitalinnovationone/dio-lab-open-source` — README (uso recomendado)
+
+> **Atenção:** esse repositório é da DIO.  
+> ✅ Melhor prática: **não substituir o README original** do projeto principal.  
+> O ideal é você usar este texto no **seu fork** OU criar um arquivo no seu fork como `ORLANDO_NOTES.md` / `CONTRIBUTIONS.md`.
+
+```markdown
+<div align="center">
+
+# 🔧 DIO Lab Open Source — Minhas Contribuições
+
+Repositório de estudos e contribuições em open source, praticando versionamento, colaboração e melhorias contínuas.
+
+<a href="#pt-br"><b>🇧🇷 Português</b></a> • <a href="#en-us"><b>🇺🇸 English</b></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Participa%C3%A7%C3%A3o-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Foco-Git%20%7C%20GitHub%20%7C%20Colabora%C3%A7%C3%A3o-0ea5e9?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/digitalinnovationone/dio-lab-open-source">
+  <img src="https://img.shields.io/badge/Repo%20Original-DIO-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🇧🇷 Visão Geral
+
+Este repositório é utilizado como laboratório para:
+- praticar o fluxo de contribuição em open source (fork → branch → PR)
+- aplicar boas práticas de versionamento e documentação
+- registrar aprendizados e evolução
+
+**Objetivo (1 frase):** Repositório de estudos e contribuições em open source, seguindo práticas de versionamento, colaboração e melhorias contínuas.
+
+---
+
+## ✅ O que eu faço aqui
+- Abrir Pull Requests com melhorias
+- Ajustar documentação e exemplos
+- Praticar colaboração seguindo padrões do projeto
+
+---
+
+## 🧭 Meu fluxo de contribuição
+1. Fork do repositório
+2. Criar branch (`feat/...` ou `fix/...`)
+3. Commits pequenos e descritivos
+4. Pull Request com contexto e objetivo claro
+
+---
+
+## 🗒️ Minhas notas (recomendado)
+Para manter organizado no seu fork:
+- `ORLANDO_NOTES.md` — checklist, aprendizados, links úteis
+- `CONTRIBUTIONS.md` — lista do que você contribuiu e por quê
+
+---
+
+## 📫 Contato
+Orlando Costa — **orlando.trafegopago@gmail.com**
+
+---
+
+## 🇺🇸 Overview
+
+This repository is used as a lab to:
+- practice open source contribution flow (fork → branch → PR)
+- apply good version control and documentation practices
+- track learning progress and improvements
+
+**Goal (1 sentence):** A repository for open-source learning and contributions, practicing version control, collaboration, and continuous improvement.
+
+---
+
+## 📫 Contact
+Orlando Costa — **orlando.trafegopago@gmail.com**
